@@ -125,5 +125,7 @@ for i in range(0,n): # até n-1
    print(i)
 
 ---
+
 ## Jupyter Notebook
-### 03-Python-Basico.ipynb
+
+<a href="02-Python-Basico.ipynb">02-Python-Basico</a>
