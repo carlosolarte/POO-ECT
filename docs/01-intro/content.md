@@ -1,4 +1,117 @@
-# This is a tes
+### Programação Orientada a Objetos
+#### Introdução
 
- - one
- - two
+--- 
+
+### Horários de Atendimento
+
+-  Carlos Olarte <carlos.olarte@gmail.com>
+
+- Horários de atendimento (Discord):
+ - segunda: 14-15
+ - quarta:  14-15
+---
+
+### Objetivos
+
+Ao finalizar o curso os estudantes poderão:
+ - Identificar os _conceitos fundamentais_ do paradigma de programação orientado a objetos
+ - Utilizar apropriadamente as técnicas de _modelagem_ e _design_ OO
+ - Desenvolver _aplicações_ utilizando o paradigma de POO
+
+---
+
+### Ferramentas
+
+ - Ênfase da disciplina: teoria de POO
+ - Entretanto: linguagem escolhida tem influência na aplicação dos conceitos
+ - Python é uma linguagem orientada a objetos de fácil aprendizado
+
+---
+
+### Ferramentas
+
+ - [Python 3.X](https://python.org/) (várias mudanças em relação à Python 2.X)
+ - IDES:  
+  - [vim](https://www.vim.org/) (o melhor ;-) )
+  - [Emacs](https://www.gnu.org/software/emacs/)
+  - [Sublime](https://www.sublimetext.com/)
+  - [Atom](https://atom.io/) 
+  - [Visual Code](https://code.visualstudio.com/)
+  - [PyCharm](https://www.jetbrains.com/pt-br/pycharm)
+ - [Jupyter Notebooks](https://jupyter.org/)
+
+---
+
+### Cronograma
+
+_Pilares fundamentais_:
+
+ - Abstração
+ - Encapsulamento
+ - Herança
+ - Polimorfismo
+
+_Conceitos de Programação_:
+ - Erros e excepções 
+ - Estruturas de dados (listas, dicionários, etc)
+
+_Muita prática_:
+ - Técnicas, biblioteca padrão, etc
+
+---
+
+### Cronograma
+
+--- 
+
+### Avaliação
+
+Avaliação continuada:
+ - Todas as semanas teremos tarefas
+ - Unidades I e II:
+  - Tarefas (70%)
+  - "Prova" (30%):  mais uma tarefa (incluindo todos os conceitos)
+ - Projeto (Unidade III) (30% tarefas + 70% projeto)
+
+--- 
+
+### Material bibliográfico
+
+- Livros online
+
+ - [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
+ - [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io/en/1.0/)
+ - [A Byte of Python](https://python.swaroopch.com/)
+
+- Tutoriais
+ - [Documentação de Python](https://www.python.org/doc/)
+ - [Real Python](https://realpython.com/)
+
+- Livros
+ - [Learning Python de Mark Lutz](https://www.amazon.com.br/dp/B00DDZPC9S/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+ - [Python 3 Object Oriented Programming](https://www.amazon.com.br/dp/B005O9OFWQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+--- 
+
+### Material bibliográfico
+
+- Cursos online
+ - [Python OOP : Four Pillars of OOP in Python 3 for Beginners](https://www.udemy.com/course/python-oops-beginners/)
+
+- Apostilas
+ - [Caelum](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf)
+ 
+---
+
+### Comparação com LIP
+
+Eu vou assumir que você domina os conceitos fundamentais de LiP (variáveis, estruturas de controle e funções).
+
+POO envolve mais teoria e por isso, aplicação prática de mais conceitos
+
+Maior nível de exigência quanto à proatividade do aluno
+
+---
+
+## Sejam bem-vindos!
