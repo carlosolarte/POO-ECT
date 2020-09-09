@@ -26,7 +26,6 @@ O objetivo da aula é introduzir comandos básicos em Python:
     - Bibliotecas de IA: Deep learning (PyTorch, TensorFlow)
 - _Crescimento de uso considerável na década atual_
 
-
  ---
 
 ## A Linguagem de Python
@@ -61,7 +60,6 @@ Por que Python?
 --- 
 ## Jupyter Notebook
 <video data-autoplay src="./img/jupyter.mp4"></video>
-
 
 --- 
 ## Zen do python

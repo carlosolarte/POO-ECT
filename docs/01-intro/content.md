@@ -56,12 +56,16 @@ _Conceitos de Programação_:
  - Erros e excepções 
  - Estruturas de dados (listas, dicionários, etc)
 
-_Muita prática_:
- - Técnicas, biblioteca padrão, etc
-
 ---
 
 ### Cronograma
+
+_Design e Projeto OO_
+ - Diagramas de classe
+ - Padrões de projeto
+
+_Muita prática_:
+ - Técnicas, biblioteca padrão, etc
 
 --- 
 

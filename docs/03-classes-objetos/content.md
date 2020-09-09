@@ -62,8 +62,18 @@ Os tipos dos atributos podem ser:
 ---
 ### Atributo e Estado
 O _estado_ está definido pelos valores dos _atributos_.
-<img src="img/carros2.jpg" width=550/>
+<table>
+<tr>
+<td>
+<img src="img/carros2.jpg" width=450/>
+<td>
 
+```cpp
+Class Carro:
+ // Atributos
+  - marca
+  - potencia
+```
 ---
 
 ### Objetos e Classes
@@ -74,8 +84,8 @@ Considere a classe _Círculo_:
 Em C++ provavelmente definiríamos o tipo
 ```cpp
 struct Circulo{
- double x,y;
- double raio;
+ double x,y; // Coordenadas do centro
+ double raio; //Raio
  };
 ```
 
@@ -111,8 +121,7 @@ Programar orientado a objetos envolve:
 - Identificar _classes_ que agrupam objetos com um comportamento comum.
 - Identificar os __atributos__ que deve armazenar cada objeto.
 - Identificar como os objetos devem *se comportar*.
-- Identificar como devem *interagir* os diferentes objetos do sistema.
-
+- Identificar como devem *interagir* os objetos do sistema.
 
 --- 
 
@@ -120,7 +129,7 @@ Programar orientado a objetos envolve:
 
 _Abstração:_ Escolher os aspetos _mais relevantes_ para representar uma entidade do mundo real.
 
- - Simplicidade: atributos irrelevantes devem ser ignorados.
+ - __Simplicidade__: atributos irrelevantes devem ser ignorados.
  - Dividir e conquistar: o propósito de uma classe deve estar bem definido (com interfaces claras).
 
 --- 
