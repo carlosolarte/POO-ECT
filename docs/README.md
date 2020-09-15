@@ -34,3 +34,10 @@ Jupyter notebook da aula [03-classes-objetos.ipynb](./03-classes-objetos/03-clas
 
 Jupyter notebook da aula [04-Encapsulamento.ipynb](./04-encapsulamento/04-Encapsulamento.ipynb)
 
+## 05 [Estruturas de Dados](./05-Biblioteca-padrao)
+ - Listas
+ - Tuplas
+ - Conjuntos
+ - Dicionários
+
+Jupyter notebook da aula [05-Biblioteca-Padrao.ipynb](./05-Biblioteca-padrao/05-Biblioteca-Padrao.ipynb)

@@ -26,4 +26,4 @@ Nesta aula aprenderemos:
 
 --- 
 ### Estruturas de Dados e Biblioteca Padrão
-[05-Biblioteca-Padrão](05-Biblioteca-Padrão.ipynb)
+[05-Biblioteca-Padrão](05-Biblioteca-Padrao.ipynb)
