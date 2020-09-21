@@ -41,3 +41,14 @@ Jupyter notebook da aula [04-Encapsulamento.ipynb](./04-encapsulamento/04-Encaps
  - Dicionários
 
 Jupyter notebook da aula [05-Biblioteca-Padrao.ipynb](./05-Biblioteca-padrao/05-Biblioteca-Padrao.ipynb)
+
+
+## 06 [Relacionamentos entre Classes](./06-relacoes)
+ - Relações de Associação
+ - Relações de Agregação
+ - Relações de Composição
+ - Notação UML
+
+ Jupyter [notebook](./06-relacoes/exemplos.ipynb) com os exemplos.
+
+ - [Exercício sex 25/09](./06-relacoes/exercicio.md). 
