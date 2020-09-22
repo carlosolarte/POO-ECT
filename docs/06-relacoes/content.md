@@ -27,7 +27,7 @@ Encapsulam um _estado_
 ### Objetivos
 
 > As classes _não existem sozinhas_: elas têm _relacionamentos
-> entre si_ que descrevem como as objetos __interagem uns com os outros__.  
+> entre si_ que descrevem como os objetos __interagem uns com os outros__.  
 
 Nesta aula aprenderemos:
 
@@ -54,7 +54,6 @@ Nesta aula aprenderemos:
 
 - Os dados de um objeto _não podem_ ser acessados diretamente.
 - O relacionamento entre os objetos deve ocorrer por meio de _métodos públicos_ (a __interface__ da classe).
-
 - __A ideia__: _Esconder os detalhes_ de implementação.
 
 > As mudanças na implementação não devem afetar os usuários da classe.
@@ -131,7 +130,7 @@ Considere um carro que possui 1 motor e 4 rodas
 - Objetos do tipo Motor e Roda são instanciados.
 - Estas instâncias são associadas a um objeto do tipo Carro no inicializador
   deste último.  
-- Ou seja, Motor, Roda e Carro podem ser instanciados independentemente.
+- Ou seja, Motor, Roda e Carro podem ser __instanciados independentemente__.
 - Quando a instância de Carro é removida da memória, as instâncias de Motor e
   Roda associadas continuam a existir
 
