@@ -52,3 +52,9 @@ Jupyter notebook da aula [05-Biblioteca-Padrao.ipynb](./05-Biblioteca-padrao/05-
  Jupyter [notebook](./06-relacoes/exemplos.ipynb) com os exemplos.
 
  - [Exercício sex 25/09](./06-relacoes/exercicio.md). 
+
+## 07 [Módulos](./07-modulos)
+ - Pacotes e Módulos
+ - Importações
+
+Código Python da [aula](./07-modulos/arquivos_modulos.zip)
