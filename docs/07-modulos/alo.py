@@ -6,3 +6,8 @@ class Alo:
  '''Classe ainda não implementada'''
  pass
 
+
+def f():
+    pass
+
+

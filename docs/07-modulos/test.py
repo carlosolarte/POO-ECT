@@ -7,6 +7,8 @@ def printDois():
 def main():
     '''Função principal'''
     printDois()
+    print("dentro da função main")
 
 if __name__ == "__main__":
     main()
+    print("estamos dentro do name main")
