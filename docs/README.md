@@ -59,7 +59,7 @@ Jupyter notebook da aula [05-Biblioteca-Padrao.ipynb](./05-Biblioteca-padrao/05-
 
 Código Python da [aula](./07-modulos/arquivos_modulos.zip)
 
-## Métodos e Atributos de Classe
+## 08 Métodos e Atributos de Classe
  - Métodos e atributos _static_
 
 Jupyter [notebook](./08-static/static.zip) 
