@@ -63,3 +63,9 @@ Código Python da [aula](./07-modulos/arquivos_modulos.zip)
  - Métodos e atributos _static_
 
 Jupyter [notebook](./08-static/static.zip) 
+
+## [09 Herança](09-heranca)
+ - Relações de Herança
+
+Jupyter [notebook](./09-heranca/09-herança.ipynb)
+ 
