@@ -114,10 +114,10 @@ class Pessoa:
 
 ```python
 class Medico(Pessoa):
-  def __init__(self, nome, snome, crm):
+  def __init__(self, nome, snome, dn, crm):
     #Inicializar a superclasse
     # super(): referência à superclasse
-    super().__init__(nome, snome) 
+    super().__init__(nome, snome,dn) 
     self._crm = crm
 
   #reescrever o método assinar

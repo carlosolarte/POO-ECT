@@ -65,7 +65,8 @@ Código Python da [aula](./07-modulos/arquivos_modulos.zip)
 Jupyter [notebook](./08-static/static.zip) 
 
 ## [09 Herança](09-heranca)
- - Relações de Herança
+ - Herança em POO
+ - Reescrita de métodos
 
 Jupyter [notebook](./09-heranca/09-heranca.ipynb)
  
