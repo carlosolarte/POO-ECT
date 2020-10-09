@@ -67,5 +67,5 @@ Jupyter [notebook](./08-static/static.zip)
 ## [09 Herança](09-heranca)
  - Relações de Herança
 
-Jupyter [notebook](./09-heranca/09-herança.ipynb)
+Jupyter [notebook](./09-heranca/09-heranca.ipynb)
  
