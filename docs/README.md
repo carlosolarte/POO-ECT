@@ -70,3 +70,8 @@ Jupyter [notebook](./08-static/static.zip)
 
 Jupyter [notebook](./09-heranca/09-heranca.ipynb)
  
+## 10 [Classes Abstratas](./10-classes-abstratas)
+ - Classes abstratas
+ - Métodos abstratos
+
+Jypyter [notebook](10-classes-abstratas/12-classes-abstratas.ipynb)
