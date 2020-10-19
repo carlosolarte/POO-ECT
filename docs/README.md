@@ -64,7 +64,7 @@ Código Python da [aula](./07-modulos/arquivos_modulos.zip)
 
 Jupyter [notebook](./08-static/static.zip) 
 
-## [09 Herança](09-heranca)
+## 09 [Herança](09-heranca)
  - Herança em POO
  - Reescrita de métodos
 
@@ -75,3 +75,15 @@ Jupyter [notebook](./09-heranca/09-heranca.ipynb)
  - Métodos abstratos
 
 Jypyter [notebook](10-classes-abstratas/12-classes-abstratas.ipynb)
+
+## 11 [Polimorfismo](./11-polimorfismo)
+ - Polimorfismo
+ - Duck Typing
+
+Jypyter [notebook](./11-polimorfismo/Polimorfismo.ipynb)
+
+## 12 [Herança Múltipla](./12-heranca-multipla)
+ - Herança Múltipla
+ - O problema do diamante
+
+Jupyter [notebook](./12-heranca-multipla/Heranca-multipla.ipynb)
