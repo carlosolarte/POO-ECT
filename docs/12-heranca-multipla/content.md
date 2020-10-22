@@ -119,6 +119,11 @@ Cada chamada de `__init__` _sobrescreve_ a declaração anterior
 
 Portanto, o que vale __é o último que sobrescreve__
 
+--- 
+### Atributos com o mesmo nome
+#### Um problema comum
+
+<img src=erro1.png width=500 />
 ---
 
 ### Herança Múltipla: Problemas
