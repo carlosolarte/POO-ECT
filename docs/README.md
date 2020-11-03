@@ -87,3 +87,10 @@ Jypyter [notebook](./11-polimorfismo/Polimorfismo.ipynb)
  - O problema do diamante
 
 Jupyter [notebook](./12-heranca-multipla/Heranca-multipla.ipynb)
+
+## 13 [Erros e exceções](./13-erros)
+ - Erros e exceções 
+ - Tratamento de erros
+ - Definição de exeções
+
+Jupyter [notebook](/13-erros/erros.ipynb)
