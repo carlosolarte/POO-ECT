@@ -94,3 +94,10 @@ Jupyter [notebook](./12-heranca-multipla/Heranca-multipla.ipynb)
  - Definição de exeções
 
 Jupyter [notebook](/13-erros/erros.ipynb)
+
+## 14 [Arquivos](./14-arquivos)
+ - Arquivos (abrir, ler, escrever)
+ - Pickle (serialização de objetos)
+
+Jupyter [notebook](./14-arquivos/notebook.tgz)
+
