@@ -181,7 +181,7 @@ if __name__ == "__main__":
 `TypeError`: Exceção que denota um argumento de tipo não válido. 
 
 ---
-### Try e Catch
+### Try e Except
 
 A cláusula `try` contém um bloco de código que _pode_ levantar exceções. Ela __tenta__
 executar o bloco de comando nela contido. 
@@ -200,7 +200,7 @@ except:
   #tratamento
 ```
 ---
-### Try e Catch
+### Try e Except
 
 Cláusula `except` _captura e trata_ exceções
 
@@ -219,7 +219,7 @@ except Tipo2:
   #tratamento
 ```
 ---
-### Try e Catch
+### Try e Except
 
 ```
 if __name__ == "__main__":
@@ -236,7 +236,7 @@ if __name__ == "__main__":
 ```
 
 ---
-### Try e Catch
+### Try e Except
 
 Observe a ordem e hierarquia das exceções: AttributeError __é uma subclasse__ de Exception
 
