@@ -7,14 +7,14 @@ class CPFJaExiste(Exception):
     dados
     '''
     def __init__(self):
-        super().__init__("CPF ja existe")
+        super().__init__("CPF já existe")
 
 class CPFNaoExiste(Exception):
     '''
     Exceção que indica que o CPF não existe no banco de dados
     '''
     def __init__(self):
-        super().__init__("CPF nao existe")
+        super().__init__("CPF não existe")
 
 class Pessoa:
     '''
@@ -63,7 +63,7 @@ class Pessoa:
           Se P.cpf ja existe
         '''
         if P.cpf in Pessoa.__pessoas:
-            raise CPFJaExiste
+            raise CPFJaExiste()
 
         Pessoa.__pessoas[P.cpf] = P
 
@@ -80,12 +80,12 @@ class Pessoa:
         Exceções
         --------
         CPFNaoExiste
-          Se o cpf nao esta cadastrado
+          Se o CPF não está cadastrado
         
         Retorna
         --------
         Pessoa
-          A pessoa associada ao cpf
+          A pessoa associada ao CPF
         '''
         if cpf not in Pessoa.__pessoas:
             raise CPFNaoExiste()
@@ -119,7 +119,7 @@ class Pessoa:
         Exceções
         -------
         CPFNaoExiste
-          Se o CPF nao esta cadastrado
+          Se o CPF não está cadastrado
         '''
         if cpf not in Pessoa.__pessoas:
             raise CPFNaoExiste()

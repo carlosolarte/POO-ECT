@@ -11,7 +11,7 @@ class PessoaView():
         P : Pessoa
         '''
 
-        print(P)
+        print(P) 
 
     @staticmethod
     def mostrarListaPessoas(l):
@@ -30,6 +30,7 @@ class PessoaView():
 
     @staticmethod
     def mostrarCPFJaExiste(P):
+
         '''
         Imprime a mensagem de erro relacionada ao erro CPFJaExiste
 
@@ -38,7 +39,7 @@ class PessoaView():
         P : Pessoa
           Pessoa que está sendo cadastrada
         '''
-        print(f'[Erro] O CPF {P.cpf} ja esta cadastrado no sistem')
+        print(f'[Erro] O CPF {P.cpf} ja está cadastrado no sistema')
 
     @staticmethod
     def mostrarCPFNaoExiste(cpf):
