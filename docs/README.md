@@ -101,3 +101,15 @@ Jupyter [notebook](/13-erros/erros.ipynb)
 
 Jupyter [notebook](./14-arquivos/notebook.tgz)
 
+
+## 15 [Padrão MVC](./15-mvc)
+ - Padrão de design MVC
+
+Jupyter [notebook](./15-mvc/mvc.tgz)
+
+
+## 16 [GUIs](./16-gui)
+ - Interfaces Gráficas
+ - Tkinter
+
+Jupyter [notebook](./16-gui/gui.tgz)
