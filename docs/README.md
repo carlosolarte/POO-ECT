@@ -113,4 +113,5 @@ Jupyter [notebook](./15-mvc/mvc.tgz)
  - Tkinter
 
 Jupyter [notebook](./16-gui/gui.tgz)
+
 [GUI + MVC](./16-gui/gui2.tgz)
